@@ -15,7 +15,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="express" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="express" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="express" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/icons/python/python-original.svg" alt="express" width="40" height="40"/>
 </p>
 -----------------
 <h1 align="center">My Discord Profile:</h1>
