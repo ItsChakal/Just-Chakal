@@ -3,7 +3,7 @@
 ### About me
 * 17yo french developper.
 * Programming languages :yum:
-    * NodeJS
+    * JS
     * Python
     * Maybe more...
 
