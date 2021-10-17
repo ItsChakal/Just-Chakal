@@ -20,7 +20,7 @@
 -----------------
 <h1 align="center">My Discord Profile:</h1>
 <div align="center">
-<img alt="Chakal's Discord Profile" src="https://discord.c99.nl/widget/theme-1/861353252641570883.png" />
+<img alt="Chakal's Discord Profile" src="https://discord.c99.nl/widget/theme-2/861353252641570883.png" />
 </div>
 
 -----------------
