@@ -27,11 +27,11 @@
 -----------------
 <h1 align="center">My Github Stats:</h1>
 <div align="center">
-  <img alt="Chakal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Just_Chakal&show_icons=true&theme=dark&count_private=true"/>
+  <img alt="Chakal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Just-Chakal&show_icons=true&theme=dark&count_private=true"/>
 </div>
 
 -----------------
 <h1 align="center">My Most Used Programming Languages:</h1>
 <div align="center">
- <img alt="Chakal's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Just_Chakal&layout=compact&theme=dark&count_private=true"/>
+ <img alt="Chakal's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Just-Chakal&layout=compact&theme=dark&count_private=true"/>
 </div>
