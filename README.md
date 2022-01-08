@@ -3,7 +3,7 @@
 ### About me
 * Read me made by Glaf
 * 17yo french developper.
-* Programming languages :yum:
+* Programming languages :
     * JS
     * Python
     * A little of C#
