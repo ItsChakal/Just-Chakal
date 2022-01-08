@@ -6,7 +6,8 @@
 * Programming languages :yum:
     * JS
     * Python
-    * Maybe more...
+    * A little of C#
+    * Same for C++
 
 -----------------
 ## What I'm Currently Using:
