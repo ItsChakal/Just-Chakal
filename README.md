@@ -8,6 +8,7 @@
     * Python
     * A little of C#
     * Same for C++
+    * Same for Lua
 
 -----------------
 ## What I'm Currently Using:
@@ -24,7 +25,7 @@
 </p>
 <h1 align="center">My Discord Profile:</h1>
 <div align="center">
-<img alt="Chakal's Discord Profile" src="https://discord.c99.nl/widget/theme-2/861353252641570883.png" />
+<img alt="Chakal's Discord Profile" src="https://discord.c99.nl/widget/theme-2/737332877401915533.png" />
 </div>
 
 -----------------
