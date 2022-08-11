@@ -2,7 +2,7 @@
 
 ### About me
 * Read me made by Glaf
-* 17yo french developper.
+* 18yo french developper.
 * Programming languages :
     * JS
     * Python
