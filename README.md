@@ -30,9 +30,9 @@ class Chakal():
 if __name__ == '__main__':
     me = Chakal()
 ```
-
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/track/33LFIMKizfQaC2RFeYLQXw?si=5f19450eba094595)
-
+<div align="center">
+    <b>[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/track/33LFIMKizfQaC2RFeYLQXw?si=5f19450eba094595&nd=1)</b>
+</div>
 <!--
 <div align="center">
   <a href="https://open.spotify.com/track/33LFIMKizfQaC2RFeYLQXw">
