@@ -32,7 +32,7 @@ if __name__ == '__main__':
 ```
 
 <div align="center">
-  [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+  <iframe src="https://open.spotify.com/embed/track/1UgMLFmeVyphjePcN1TNpq" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
 <!--
