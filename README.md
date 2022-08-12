@@ -32,8 +32,7 @@ if __name__ == '__main__':
 ```
 
 <div align="center">
-  <a href="https://open.spotify.com/track/33LFIMKizfQaC2RFeYLQXw?si=5f19450eba094595">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark">
+  <a href="[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)">
   </a>
 </div>
 
