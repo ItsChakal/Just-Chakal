@@ -2,7 +2,7 @@
   <b>Chakal</b>
 </h1>
 
-Hi! I'm Chakal, a student currently living in France. I'm 18yo and I'm learning programming languages.
+Hi! I'm Chakal, a student currently living in France. I'm 18yo and I'm a developer.
 
 <br>
 
