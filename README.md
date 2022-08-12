@@ -32,8 +32,7 @@ if __name__ == '__main__':
 ```
 
 <div align="center">
-  <a href="[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)">
-  </a>
+  [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 </div>
 
 <!--
