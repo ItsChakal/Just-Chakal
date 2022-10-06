@@ -50,7 +50,7 @@ if __name__ == '__main__':
 <br/>
 <p align="left">
   <a href="https://discord.gg/FwdBFreVyy">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=just-chakal&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://cdn.discordapp.com/attachments/737334755669835908/776502953124167720/9652ea1cdb24c9d55d621c62d9653aad.gif"/>
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=just-chakal&theme=gruvbox&hide_border=true" />
   </a>
 </p>
