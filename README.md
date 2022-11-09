@@ -37,6 +37,7 @@ if __name__ == '__main__':
 
 
    [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/track/33LFIMKizfQaC2RFeYLQXw?si=5f19450eba094595&nd=1)
+   ![Profil views](https://komarev.com/ghpvc/?username=Just-Chakal)
 <!--
 <div align="center">
   <a href="https://open.spotify.com/track/33LFIMKizfQaC2RFeYLQXw">
