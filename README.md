@@ -61,8 +61,8 @@ if __name__ == '__main__':
 [![just-chakal' Activity Graph](https://activity-graph.herokuapp.com/graph?username=just-chakal&custom_title=Chakal's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://discord.gg/FwdBFreVyy)
 
 ------
-Profil views : ![Profil views](https://komarev.com/ghpvc/?username=Just-Chakal)
+![Profil views](https://komarev.com/ghpvc/?username=Just-Chakal)
 
 Credit: [Chakal](https://github.com/just-chakal)
 
-Last Edited on: 11/10/2022 - 11:40PM
+Last Edited on: November 10 2022 - 11:41PM
