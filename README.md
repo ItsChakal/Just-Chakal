@@ -36,7 +36,8 @@ if __name__ == '__main__':
 
 
 
-   ![Profil views](https://komarev.com/ghpvc/?username=Just-Chakal)
+
+
    [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/track/33LFIMKizfQaC2RFeYLQXw?si=5f19450eba094595&nd=1)
 <!--
 <div align="center">
@@ -60,7 +61,8 @@ if __name__ == '__main__':
 [![just-chakal' Activity Graph](https://activity-graph.herokuapp.com/graph?username=just-chakal&custom_title=Chakal's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://discord.gg/FwdBFreVyy)
 
 ------
+Profil views : ![Profil views](https://komarev.com/ghpvc/?username=Just-Chakal)
 
 Credit: [Chakal](https://github.com/just-chakal)
 
-Last Edited on: 08/12/2022 - 7:38PM
+Last Edited on: 11/11/2022 - 11:40PM
