@@ -2,7 +2,7 @@
   <b>Chakal</b>
 </h1>
 
-Hi! I'm Chakal, a student currently living in France. I'm 18yo and I'm a developer.
+Hi! I'm Chakal, a student currently living in France. I'm 19yo and I'm a developer.
 
 <br>
 
@@ -24,8 +24,8 @@ class Chakal():
     self.name = "Andy";
     self.username = "Chakal";
     self.location = "France";
-    self.twitter = "@just_chakal";
-    self.discord = "https://discord.gg/FwdBFreVyy";
+    self.instagram = "@andy.shooting";
+    self.discord = "andy_srn";
   
   def __str__(self):
     return self.name
@@ -63,4 +63,4 @@ if __name__ == '__main__':
 
 Credit: [Chakal](https://github.com/just-chakal)
 
-Last Edited on: December 11 2022 - 6:33PM
+Last Edited on: September 30 2023 - 7:01PM
