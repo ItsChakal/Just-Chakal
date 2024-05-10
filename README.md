@@ -2,7 +2,7 @@
   <b>Chakal</b>
 </h1>
 
-Hi! I'm Chakal, a student currently living in France. I'm 19yo and I'm a developer.
+Hi! I'm Chakal, a student currently living in France. I'm 20yo and I'm a UI Designer.
 
 <br>
 
@@ -25,7 +25,7 @@ class Chakal():
     self.username = "Chakal";
     self.location = "France";
     self.instagram = "@andy.shooting";
-    self.discord = "andy_srn";
+    self.discord = "itschakal";
   
   def __str__(self):
     return self.name
@@ -51,7 +51,7 @@ if __name__ == '__main__':
 
 <br/>
 <p align="left">
-  <a href="https://discord.gg/FwdBFreVyy">
+  <a href="https://discord.gg/hmnfivem">
   <img width="49.5%" src="https://cdn.discordapp.com/attachments/737334755669835908/776502953124167720/9652ea1cdb24c9d55d621c62d9653aad.gif"/>
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=just-chakal&theme=gruvbox&hide_border=true" />
   </a>
@@ -63,4 +63,4 @@ if __name__ == '__main__':
 
 Credit: [Chakal](https://github.com/just-chakal)
 
-Last Edited on: September 30 2023 - 7:01PM
+Last Edited on: May 10 2023 - 2:56PM
