@@ -51,7 +51,7 @@ if __name__ == '__main__':
 
 <br/>
 <p align="left">
-  <a href="https://discord.gg/hmnfivem">
+  <a href="https://discord.gg/chakal">
   <img width="49.5%" src="https://cdn.discordapp.com/attachments/737334755669835908/776502953124167720/9652ea1cdb24c9d55d621c62d9653aad.gif"/>
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=just-chakal&theme=gruvbox&hide_border=true" />
   </a>
@@ -60,7 +60,8 @@ if __name__ == '__main__':
 
 ------
 ![Profil views](https://komarev.com/ghpvc/?username=Just-Chakal)
+![Wakatime](https://wakatime.com/badge/user/5f5b6129-4bae-4b24-a1ae-61a35b02a21d.svg)
 
 Credit: [Chakal](https://github.com/just-chakal)
 
-Last Edited on: May 10 2024 - 2:57PM
+Last Edited on: February 27 2025 - 3:08PM
